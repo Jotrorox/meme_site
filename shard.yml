@@ -1,0 +1,13 @@
+name: meme_site
+version: 0.1.0
+
+authors:
+  - Jotrorox <jotrorox@gmail.com>
+
+targets:
+  meme_site:
+    main: src/meme_site.cr
+
+crystal: 1.7.3
+
+license: MIT
