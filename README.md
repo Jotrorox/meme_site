@@ -1,22 +1,20 @@
 # meme_site
 
-TODO: Write a description here
+A simple meme site written in Crystal.
+It get's the memes fron the meme-api.com API.
 
 ## Installation
 
-TODO: Write installation instructions here
+There are no dependencies, so you can just download and run it.
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+Just download the executable from the releases page and run it.
+You can also compile it yourself, but you need to have the Crystal compiler installed.
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/meme_site/fork>)
+1. Fork it (<https://github.com/jotrorox/meme_site/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -24,4 +22,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Jotrorox](https://github.com/your-github-user) - creator and maintainer
+- [Jotrorox](https://github.com/jotrorox) - creator and maintainer
